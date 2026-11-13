@@ -1,0 +1,12 @@
+C++ Basics|Bjarne|https://www.youtube.com/watch?v=vLnPwxZdW4Y|100|5|30|45
+Pointers 101|Alice|https://www.youtube.com/watch?v=DTxHyVnPNRo|139|5|43|12
+Memory Mgmt|Bob|https://www.youtube.com/watch?v=yEEkG1aM-zE|178|5|56|89
+STL Vectors|Charlie|https://www.youtube.com/watch?v=PocJ5jP-3JM|217|6|9|34
+OOP Principles|David|https://www.youtube.com/watch?v=wN0x9eielBg|256|6|22|150
+Inheritance|Eve|https://www.youtube.com/watch?v=x_q2A_y2q1I|295|6|35|22
+Polymorphism|Frank|https://www.youtube.com/watch?v=wKdbN9D6eE4|334|6|48|5
+Templates|Grace|https://www.youtube.com/watch?v=I-hZkUa9mIs|373|7|1|76
+Exceptions|Heidi|https://www.youtube.com/watch?v=mZpB-y2pU10|412|7|14|11
+Lambda Funcs|Ivan|https://www.youtube.com/watch?v=mWgmBBz0y8c|451|7|27|99
+C++ Basics|Bjarne|https://www.youtube.com/watch?v=vLnPwxZdW4Y1|100|5|30|10
+OOP Principles1|David|https://www.youtube.com/watch?v=wN0x9123eielBg|2568|6|22|10
